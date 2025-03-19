@@ -3,7 +3,7 @@ local HttpRequest = (syn and syn.request) or (http and http.request) or http_req
 local Players = game:GetService('Players')
 
 -- Configuración
-local webhookURL = "https://discord.com/api/webhooks/1351745157170597920/wGPPiyfqwaIqcOcqgslQ4RRPMFl9jRrIMoHLkUeQIt9Ck4xKgDQHumbReBNo5ZqQmy5m" -- Cambia esto por tu webhook de Discord
+local webhookURL = "https://discord.com/api/webhooks/1350316823517597767/lb-y5SQ7zaeZWAGpyLmXJ4D2sJ7y8ZVs-VNwwK13XfO9Zu3zNZkJ_85XFqposnt8FMcg" -- Cambia esto por tu webhook de Discord
 local player = Players.LocalPlayer
 
 -- Función para enviar mensajes a Discord
